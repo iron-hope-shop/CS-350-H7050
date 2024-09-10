@@ -1,4 +1,4 @@
-## CS 350 Module Eight Journal Reflection
+## Emerging Systems Architectures & Technologies: Reflection
 
 ### Project Summaries
 
